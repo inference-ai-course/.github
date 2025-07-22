@@ -4,7 +4,7 @@ Welcome to the official repository for the **Machine Learning Engineer in the Ge
 
 This class is designed for hands-on, open-source practice with the latest tools in Large Language Models (LLMs), agentic AI, and data engineering. All lectures, code, and homework are here:
 
-👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI_Course)**
+👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
 ---
 
