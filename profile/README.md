@@ -62,6 +62,7 @@ git push --set-upstream origin "First-Last"
 **[Homework10](https://github.com/inference-ai-course/Homework10-Submission)**
 
 ## Project Submission:
+
 **[Project1](https://github.com/inference-ai-course/Project1-submission)**,
 **[Project2](https://github.com/inference-ai-course/Project2-submission)**,
 **[Project3](https://github.com/inference-ai-course/Project3-submission)**
