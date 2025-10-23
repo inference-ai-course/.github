@@ -7,6 +7,7 @@ This class is designed for hands-on, open-source practice with the latest tools 
 👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
 Homework Submission:
+
 **[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**
 
 **[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**
