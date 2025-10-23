@@ -4,74 +4,9 @@ Welcome to the official repository for the **Machine Learning Engineer in the Ge
 
 This class is designed for hands-on, open-source practice with the latest tools in Large Language Models (LLMs), agentic AI, and data engineering. All lectures, code, and homework are here:
 
-👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
+👉 Learning from **[Course repo](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
-## Homework Submission:
-Follow the instructions in the course repository: [Course link](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course) 
-Submit your homework by creating your own branch in the designated homework repository.
-
-How to create your branch:
-
- • Create a new branch from the main branch.
- 
- • Name it using your name or NetID (e.g., scott-lai or ql123).
- 
- • Commit your work to this branch and open a pull request for review.
-
-```
-# Create your branch
-git checkout -b "First-Last"  # Example: Scott-Lai
-
-# Check changes
-git status
-
-# Stage changes
-git add <file-name>           # Add specific file
-# or
-git add .                     # Add all changes
-
-# Commit changes
-git commit -m "Describe your change"
-
-# Push branch
-git push --set-upstream origin "First-Last"
-
-# Open a Pull Request (PR)
-# Use the link shown after push, or open a PR on GitHub.
-
-# PR must include (in Markdown):
-## Description
-- What did you change or add?
-
-## What I Learned
-- Key takeaways from this homework.
-
-## Bugs/Issues
-- What problems or errors you encountered.
-
-## Learn More
-- Topics you want to explore further.
-```
-
-**[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**,
-**[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**,
-**[Homework3](https://github.com/inference-ai-course/Homework3-Submission)**,
-**[Homework4](https://github.com/inference-ai-course/Homework4-Submission)**,
-**[Homework5](https://github.com/inference-ai-course/Homework5-Submission)**,
-**[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**,
-**[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**,
-**[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**,
-**[Homework9](https://github.com/inference-ai-course/Homework9-Submission)**,
-**[Homework10](https://github.com/inference-ai-course/Homework10-Submission)**
-
-## Project Submission:
-
-For the Projects submission, please following the save steps as homework submission. 
-
-**[project1](https://github.com/inference-ai-course/Project1-submission)**,
-**[project2](https://github.com/inference-ai-course/Project2-submission)**,
-**[project3](https://github.com/inference-ai-course/Project3-submission)**
-
+👉 Follw the **[Homework submission](https://github.com/inference-ai-course/.github/blob/main/profile/README.md#L109)** to submib your HW and Projects
 
 ---
 
@@ -174,22 +109,42 @@ Your project is to build a personalized research agent, applying all you’ve le
 ---
 
 ## 📝 Example Submission Flow
+Submit your homework by creating your own branch in the designated homework repository.
+
+**[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**,
+**[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**,
+**[Homework3](https://github.com/inference-ai-course/Homework3-Submission)**,
+**[Homework4](https://github.com/inference-ai-course/Homework4-Submission)**,
+**[Homework5](https://github.com/inference-ai-course/Homework5-Submission)**,
+**[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**,
+**[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**,
+**[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**,
+**[Homework9](https://github.com/inference-ai-course/Homework9-Submission)**,
+**[Homework10](https://github.com/inference-ai-course/Homework10-Submission)**
+
+For the Projects submission, please following the save steps as homework submission. 
+
+**[project1](https://github.com/inference-ai-course/Project1-submission)**,
+**[project2](https://github.com/inference-ai-course/Project2-submission)**,
+**[project3](https://github.com/inference-ai-course/Project3-submission)**
+
 
 ```markdown
-# Example: Homework Submission
+# Homework Submission
 
-1. Create a repo: `MLE_HW_johndoe`
-2. Complete and commit all homework notebooks and scripts.
-3. Push to GitHub `git push origin main`.
-4. Create PR from `MLE_HW_johndoe:main` into `MLE_in_Gen_AI-Course:main`.
-5. Submit the link of PR on Canvas, [example link](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course/pull/7).
+1. Create a repository: `Homework1_johndoe`.
+2. Add all homework notebooks and scripts. Commit your changes.
+3. Push to GitHub: `git push origin main`.
+4. Open a Pull Request (PR) from `Homework1_johndoe:main` into `Homework1-submission:main`.
+5. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Homework1-submission/pull/7.
 
-# Example: Project Submission
+# Project Submission
 
-1. Create a new repo: `MLE_Project_johndoe`
-2. Add project code, readme, and demo notebooks.
-3. Push to GitHub.
-4. Submit: https://github.com/johndoe/MLE_Project_johndoe via Canvas.
+1. Create a repository: `MLE_Project_johndoe`.
+2. Add project code, README, and demo notebooks. Commit your changes.
+3. Push to GitHub: `git push origin main`.
+4. Open a PR from `MLE_Project_johndoe:main` into `Project1-submission:main`.
+5. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Project1-submission/pull/7.
 ```
 
 ---
