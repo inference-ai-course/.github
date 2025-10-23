@@ -132,19 +132,21 @@ For the Projects submission, please following the save steps as homework submiss
 ```markdown
 # Homework Submission
 
-1. Create a repository: `Homework1_johndoe`.
-2. Add all homework notebooks and scripts. Commit your changes.
-3. Push to GitHub: `git push origin main`.
-4. Open a Pull Request (PR) from `Homework1_johndoe:main` into `Homework1-submission:main`.
+1. Clone the Homework repository: `git clone https://github.com/inference-ai-course/Homework1-Submission.git`.
+2. Create your own branch: `git checkout -b "Scott-Lai-HW1"`
+2. Add all homework notebooks and scripts. Commit your changes. 
+3. Push to GitHub: `git push origin Scott-Lai-HW1`.
+4. Open a Pull Request (PR) from `Homework1-Submission:Scott-Lai-HW1` into `Homework1-submission:main`.
 5. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Homework1-submission/pull/7.
 
-# Project Submission
+Project Submission
 
-1. Create a repository: `MLE_Project_johndoe`.
-2. Add project code, README, and demo notebooks. Commit your changes.
-3. Push to GitHub: `git push origin main`.
-4. Open a PR from `MLE_Project_johndoe:main` into `Project1-submission:main`.
-5. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Project1-submission/pull/7.
+ 1. Clone the Project submission repository: `git clone https://github.com/inference-ai-course/Project1-submission.git`.
+ 2. Create your branch: `git checkout -b "Scott-Lai-Project1"`.
+ 3. Add project code, README, and demo notebooks. Commit your changes.
+ 4. Push to GitHub: `git push origin Scott-Lai-Project1`.
+ 5. Open a Pull Request (PR) from `Project1-submission:Scott-Lai-Project1` into `Project1-submission:main`.
+ 6. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Project1-submission/pull/7.
 ```
 
 ---
