@@ -6,28 +6,65 @@ This class is designed for hands-on, open-source practice with the latest tools 
 
 👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
-Homework Submission:
+## Homework Submission:
+Follow the instructions in the course repository: [Course link](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course) 
+Submit your homework by creating your own branch in the designated homework repository.
 
-**[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**
+How to create your branch:
+ • Create a new branch from the main branch.
+ • Name it using your name or NetID (e.g., scott-lai or ql123).
+ • Commit your work to this branch and open a pull request for review.
 
-**[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**
+```
+# Create your branch
+git checkout -b "First-Last"  # Example: Scott-Lai
 
-**[Homework3](https://github.com/inference-ai-course/Homework3-Submission)**
+# Check changes
+git status
 
-**[Homework4](https://github.com/inference-ai-course/Homework4-Submission)**
+# Stage changes
+git add <file-name>           # Add specific file
+# or
+git add .                     # Add all changes
 
-**[Homework5](https://github.com/inference-ai-course/Homework5-Submission)**
+# Commit changes
+git commit -m "Describe your change"
 
-**[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**
+# Push branch
+git push --set-upstream origin "First-Last"
 
-**[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**
+# Open a Pull Request (PR)
+# Use the link shown after push, or open a PR on GitHub.
 
-**[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**
+# PR must include (in Markdown):
+## Description
+- What did you change or add?
 
-**[Homework9](https://github.com/inference-ai-course/Homework9-Submission)**
+## What I Learned
+- Key takeaways from this homework.
 
+## Bugs/Issues
+- What problems or errors you encountered.
+
+## Learn More
+- Topics you want to explore further.
+```
+
+**[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**,
+**[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**,
+**[Homework3](https://github.com/inference-ai-course/Homework3-Submission)**,
+**[Homework4](https://github.com/inference-ai-course/Homework4-Submission)**,
+**[Homework5](https://github.com/inference-ai-course/Homework5-Submission)**,
+**[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**,
+**[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**,
+**[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**,
+**[Homework9](https://github.com/inference-ai-course/Homework9-Submission)**,
 **[Homework10](https://github.com/inference-ai-course/Homework10-Submission)**
 
+## Project Submission:
+**[Project1](https://github.com/inference-ai-course/Project1-submission)**,
+**[Project2](https://github.com/inference-ai-course/Project2-submission)**,
+**[Project3](https://github.com/inference-ai-course/Project3-submission)**
 ---
 
 ## 📚 Course Structure
