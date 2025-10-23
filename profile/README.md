@@ -6,6 +6,18 @@ This class is designed for hands-on, open-source practice with the latest tools 
 
 👉 **[MLE_in_Gen_AI_Course](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
+Homework Submission:
+**[Homework1](https://github.com/inference-ai-course/Homework1-Submission)**
+**[Homework2](https://github.com/inference-ai-course/Homework2-Submission)**
+**[Homework3](https://github.com/inference-ai-course/Homework3-Submission)**
+**[Homework4](https://github.com/inference-ai-course/Homework4-Submission)**
+**[Homework5](https://github.com/inference-ai-course/Homework5-Submission)**
+**[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**
+**[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**
+**[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**
+**[Homework9](https://github.com/inference-ai-course/Homework9-Submission)**
+**[Homework10](https://github.com/inference-ai-course/Homework10-Submission)**
+
 ---
 
 ## 📚 Course Structure
