@@ -11,8 +11,11 @@ Follow the instructions in the course repository: [Course link](https://github.c
 Submit your homework by creating your own branch in the designated homework repository.
 
 How to create your branch:
+
  • Create a new branch from the main branch.
+ 
  • Name it using your name or NetID (e.g., scott-lai or ql123).
+ 
  • Commit your work to this branch and open a pull request for review.
 
 ```
