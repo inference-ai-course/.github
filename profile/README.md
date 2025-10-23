@@ -105,11 +105,12 @@ For detailed lecture topics and slides, check the  **[Lecture Materials folder](
 
 **Homework Submission Workflow:**
 
-1. **Create your own private repo** (recommended: `MLE_HW_<yourname>`).
+1. **Create your own private repo by fork** (recommended: `MLE_HW_<yourname>`).
 2. Complete all homework assignments in  **one single repo** .
 3. When you finish each homework, **push your work** to your repo.
-4. **Submit the repo link** via the Canvas Assignments section.
-5. For each project milestone (see below), **create a new repo** and submit the link via Canvas as well.
+4. Create a pull request from your own forked repo. [What is Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+5. **Submit the link of Pull Request** via the Canvas Assignments section.
+6. For each project milestone (see below), **create a new repo** and submit the link via Canvas.
 
 ---
 
@@ -179,8 +180,9 @@ Your project is to build a personalized research agent, applying all you’ve le
 
 1. Create a repo: `MLE_HW_johndoe`
 2. Complete and commit all homework notebooks and scripts.
-3. Push to GitHub.
-4. Submit: https://github.com/johndoe/MLE_HW_johndoe via Canvas.
+3. Push to GitHub `git push origin main`.
+4. Create PR from `MLE_HW_johndoe:main` into `MLE_in_Gen_AI-Course:main`.
+5. Submit the link of PR on Canvas, [example link](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course/pull/7).
 
 # Example: Project Submission
 
