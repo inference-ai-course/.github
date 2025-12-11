@@ -143,6 +143,10 @@ Project Submission
  1. Clone the Project submission repository: `git clone https://github.com/inference-ai-course/Project1-submission.git`.
  2. Create your branch: `git checkout -b "Scott-Lai-Project1"`.
  3. Add project code, README, and demo notebooks. Commit your changes.
+   ```
+   git add .
+   git commit -m "summary of the push"
+   ```
  4. Push to GitHub: `git push origin Scott-Lai-Project1`.
  5. Open a Pull Request (PR) from `Project1-submission:Scott-Lai-Project1` into `Project1-submission:main`.
  6. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Project1-submission/pull/7.
