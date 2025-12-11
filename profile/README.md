@@ -133,7 +133,11 @@ For the Projects submission, please following the save steps as homework submiss
 
 1. Clone the Homework repository: `git clone https://github.com/inference-ai-course/Homework1-Submission.git`.
 2. Create your own branch: `git checkout -b "Scott-Lai-HW1"`
-2. Add all homework notebooks and scripts. Commit your changes. 
+2. Add all homework notebooks and scripts. Commit your changes.
+    ```
+    git add .
+    git commit -m "summary of the push"
+    ```
 3. Push to GitHub: `git push origin Scott-Lai-HW1`.
 4. Open a Pull Request (PR) from `Homework1-Submission:Scott-Lai-HW1` into `Homework1-submission:main`.
 5. Submit the PR link on Canvas. Example: https://github.com/inference-ai-course/Homework1-submission/pull/7.
