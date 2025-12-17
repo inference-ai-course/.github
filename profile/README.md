@@ -119,7 +119,7 @@ Submit your homework by creating your own branch in the designated homework repo
 **[Homework6](https://github.com/inference-ai-course/Homework6-Submission)**,
 **[Homework7](https://github.com/inference-ai-course/Homework7-Submission)**,
 **[Homework8](https://github.com/inference-ai-course/Homework8-Submission)**,
-**[Homework9&10](https://github.com/inference-ai-course/Homework9&10-Submission)**,
+**[Homework9&10](https://github.com/inference-ai-course/Homework9-10-Submission)**,
 
 For the Projects submission, please following the save steps as homework submission. 
 
