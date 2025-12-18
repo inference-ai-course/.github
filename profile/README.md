@@ -100,7 +100,7 @@ Your project is to build a personalized research agent, applying all you’ve le
 
 ## 🔗 Useful Resources
 
-* [Course Repo (Lectures, Code, Homework)](https://github.com/inference-ai-course/MLE_in_Gen_AI_Course)
+* [Course Repo (Lectures, Code, Homework)](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)
 * [HuggingFace Model Hub](https://huggingface.co/)
 * [LangChain Documentation](https://docs.langchain.com/)
 * [vLLM Docs](https://docs.vllm.ai/en/latest/)
