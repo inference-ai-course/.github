@@ -4,7 +4,7 @@ Welcome to the official repository for the **Machine Learning Engineer in the Ge
 
 This class is designed for hands-on, open-source practice with the latest tools in Large Language Models (LLMs), agentic AI, and data engineering. All lectures, code, and homework are here:
 
-👉 Learning from **[Course repo](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
+👉 Learning from the **[Fundamentals of AI Engineering](https://github.com/inference-ai-course/Fundamentals-of-AI-Engineering)** and **[Course Repo](https://github.com/inference-ai-course/MLE_in_Gen_AI-Course)**
 
 👉 Follw the **[Homework submission](https://github.com/inference-ai-course#:~:text=Example%20Submission%20Flow)** below to submit your HW and Projects
 
@@ -12,22 +12,28 @@ This class is designed for hands-on, open-source practice with the latest tools 
 
 ## 📚 Course Structure
 
-The course spans  **10 weeks** , guiding you through foundational topics in LLMs and culminating in building your own research agent.
+The course spans  **16 weeks**, guiding you through foundational topics in LLMs and culminating in building your own research agent.
 
 ### Week-by-Week Breakdown
 
 | Week | Topic                                    | Themes & Activities                                           |
 | ---- | ---------------------------------------- | ------------------------------------------------------------- |
-| 1    | Intro to LLMs & Prompt Engineering       | GenAI & agents, LLM capabilities, CO-STAR, structured outputs |
-| 2    | LLM Architecture & Training Lifecycle    | Transformers, SFT, DPO/PPO, hallucinations, inference         |
-| 3    | Pretraining Data Collection & Extraction | Web scraping, OCR, ASR, data cleaning/filtering               |
-| 4    | Retrieval-Augmented Generation (RAG)     | Embeddings, chunking, vector DBs, LangChain, RAG workflows    |
-| 5    | Supervised Fine-Tuning (SFT) I           | Full vs. LoRA finetuning, ChatML, Deepspeed, TRL              |
-| 6    | Supervised Fine-Tuning (SFT) II          | Synthetic data, LLM-as-judge, ablation studies                |
-| 7    | Model Alignment                          | RLHF, DPO/PPO, reward models, preference labeling             |
-| 8    | Hallucination, Jailbreak, Ethics         | Safety alignment, jailbreaking, hallucination prevention      |
-| 9    | Voice Agent (Multimodal AI)              | GPT-4o real-time, ASR/TTS, audio pipelines                    |
-| 10   | Capstone: Agent & Project Demos          | Agents, function calls, MCP protocol, end-to-end workflow     |
+| 1    | Environment Setup & Data Processing Basics       | Create a clean Python environment, run a project from README |
+| 2    | The ML Training Loop + Reproducible Baselines    | Transformers, SFT, DPO/PPO, hallucinations, inference         |
+| 3    | LLM Fundamentals & Local Inference| Implement an llm_client.py that is safe to reuse across projects               |
+| 4    | Capstone Prototype, Engineering, & Quality   | Improve usability, reliability, and add tests    |
+| 5    | Capstone Demo & Retrospective           | Deliver a demo-ready Capstone that runs end-to-end              |
+| 6    |  Break           | -              |
+| 7    | Intro to LLMs & Prompt Engineering       | GenAI & agents, LLM capabilities, CO-STAR, structured outputs |
+| 8    | LLM Architecture & Training Lifecycle    | Transformers, SFT, DPO/PPO, hallucinations, inference         |
+| 9    | Pretraining Data Collection & Extraction | Web scraping, OCR, ASR, data cleaning/filtering               |
+| 10    | Retrieval-Augmented Generation (RAG)     | Embeddings, chunking, vector DBs, LangChain, RAG workflows    |
+| 11    | Supervised Fine-Tuning (SFT) I           | Full vs. LoRA finetuning, ChatML, Deepspeed, TRL              |
+| 12    | Supervised Fine-Tuning (SFT) II          | Synthetic data, LLM-as-judge, ablation studies                |
+| 13   | Model Alignment                          | RLHF, DPO/PPO, reward models, preference labeling             |
+| 14   | Hallucination, Jailbreak, Ethics         | Safety alignment, jailbreaking, hallucination prevention      |
+| 15   | Voice Agent (Multimodal AI)              | GPT-4o real-time, ASR/TTS, audio pipelines                    |
+| 16   | Capstone: Agent & Project Demos          | Agents, function calls, MCP protocol, end-to-end workflow     |
 
 For detailed lecture topics and slides, check the  **[Lecture Materials folder](https://github.com/inference-ai-course/MLE_in_Gen_AI_Course)** .
 
@@ -79,7 +85,7 @@ Your project is to build a personalized research agent, applying all you’ve le
 
 ## 📣 Community
 
-* **Join the course Discord:** For Q&A, code sharing, project brainstorming, and peer support.
+* **Join the course [Discord](https://discord.gg/WkSxFbJdpP):** For Q&A, code sharing, project brainstorming, and peer support. 
 * **Peer Feedback:** Comment on at least two peers’ project ideas (via Discord or Canvas discussion).
 * **MCP & Open Tools:** You’ll set up and experiment with tools like MCP (Model Context Protocol) and the latest open-source agents (LangChain, vLLM, etc).
 
